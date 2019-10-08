@@ -1,0 +1,40 @@
+[
+    {
+        "category": "mobile",
+        "currencyPrice": "€",
+        "subCategory": "handset",
+        "Content-Language": "fr",
+        "price": 449.99,
+        "title": "Samsung Galaxy S9 Noir",
+        "lastupdate": "2019-10-08 08:30",
+        "stockLevel": "out-of-stock",
+        "shopUrl": "//eshop.orange.be/admin/",
+        "content": "Un appareil photo révolutionnaire qui réagit comme l’œil humain.\r\nNotre objectif doté de la technologie Dual Aperture réagit à la lumière comme l’œil humain. Il passe aisément d’une intensité lumineuse à une autre, pour des photos réussies de jour comme de nuit et quelle que soit la luminosité.\r\nL’appareil photo qui brille dans le noir.\r\nL’ouverture f/1,5 trouve de la lumière même dans l’obscurité. Vos photos sont réussies, même au beau milieu de la nuit. Dites adieu aux couvre-feux et flashez sans limites.\r\nL’appareil photo qui vous transforme en émoji\r\nPrenez-vous simplement en selfie pour créer une version « augmentée » de vous-même. Partagez ensuite vos sentiments sous la forme de vidéos ou d’autocollants émojis.\r\nLe téléphone doté d’un écran illimité.\r\nAppréciez vos photos et vidéos à leur juste valeur : visionnez-les sur un élégant écran bord à bord.\r\nLire plus sur notre blog : On a testé le Galaxy S9 pour vous\r\n",
+        "productPictureUrl": "//eshop.orange.be/media/catalog/product/s/a/samsung-galaxy-s9-black-front.png",
+        "productBrand": "Samsung",
+        "marketSegment": "residential",
+        "namefeed": "obel_shop_datasource",
+        "taxPrice": true,
+        "idProduct": 9500040,
+        "objectID": "//eshop.orange.be/fr/independants/appareils/smartphones-gsm/samsung/samsung-galaxy-s9-noir"
+    },
+    {
+        "category": "mobile",
+        "currencyPrice": "€",
+        "subCategory": "handset",
+        "Content-Language": "fr",
+        "price": 599.99,
+        "title": "Samsung Galaxy S9 256 GB Noir",
+        "lastupdate": "2019-10-08 08:30",
+        "stockLevel": "out-of-stock",
+        "shopUrl": "//eshop.orange.be/admin/",
+        "content": "Un appareil photo révolutionnaire qui réagit comme l’œil humain.\r\nNotre objectif doté de la technologie Dual Aperture réagit à la lumière comme l’œil humain. Il passe aisément d’une intensité lumineuse à une autre, pour des photos réussies de jour comme de nuit et quelle que soit la luminosité.\r\nL’appareil photo qui brille dans le noir.\r\nL’ouverture f/1,5 trouve de la lumière même dans l’obscurité. Vos photos sont réussies, même au beau milieu de la nuit. Dites adieu aux couvre-feux et flashez sans limites.\r\nL’appareil photo qui vous transforme en émoji\r\nPrenez-vous simplement en selfie pour créer une version «?augmentée?» de vous-même. Partagez ensuite vos sentiments sous la forme de vidéos ou d’autocollants émojis.\r\nLe téléphone doté d’un écran illimité.\r\nAppréciez vos photos et vidéos à leur juste valeur : visionnez-les sur un élégant écran bord à bord.\r\nLire plus sur notre blog : On a testé le Galaxy S9 pour vous",
+        "productPictureUrl": "//eshop.orange.be/media/catalog/product/s/a/samsung-galaxy-s9-black-front_1.png",
+        "productBrand": "Samsung",
+        "marketSegment": "residential",
+        "namefeed": "obel_shop_datasource",
+        "taxPrice": true,
+        "idProduct": 9500088,
+        "objectID": "//eshop.orange.be/fr/independants/appareils/smartphones-gsm/samsung/samsung-galaxy-s9-256-gb-noir"
+    }
+]
