@@ -12,7 +12,6 @@ $index = $client->initIndex('Index_Name');
 // Fetch your JSON file. 
 $jsonFile = json_decode(file_get_contents('example.json'), true);
 
-// Once you have your records ready, you can then push them to Algolia using the addObjects method.
-$index->saveObjects($jsonFile, ['autoGenerateObjectIDIfNotExist' => true]);
-
+// Once you have your records ready, you can then push them to Algolia using the replaceAllObjects method.
+$index->replaceAllObjects($jsonFile, ['autoGenerateObjectIDIfNotExist' => true]);
 ?>
